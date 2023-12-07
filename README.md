@@ -8,7 +8,7 @@
 
 
 
-* [ WebRTC and WebVeiw performance tuning](docs/web_perf_opt.md) ] 
+* [ WebRTC and WebVeiw performance tuning](docs/web_perf_opt.md)
 *  [Optimizations non-compliant with Android certification requirements](docs/android_non_compatible_opt.md) 
 
 
