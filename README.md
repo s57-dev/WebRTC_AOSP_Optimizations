@@ -1,11 +1,9 @@
 # Introduction
 
-​	Here are some tips on how to improve WebRTC performance on AOSP running on ARM 64 bit platform. You may find this guide useful, if you are providing a custom build of WebView for an AOSP enabled device.  The goal of this project is to improve performance of chromium based video conferencing on ARM and Android. This document assumes that performance and quality of the incoming and outgoing video call and audio quality takes precedence over other system performance caracteristics.
-
-
+​
+This project documents configuration options designed to improve WebRTC performance on AOSP running on ARM 64 bit platform. You may find this guide useful if you are providing a custom build of WebView for an AOSP enabled device. The goal is to improve performance of chromium based video conferencing on ARM and Android. This document assumes that performance and quality of the incoming and outgoing video calls takes precedence over other system performance characteristics.
 
 # Features
-
 
 
 * [ WebRTC and WebVeiw performance tuning](docs/web_perf_opt.md)
